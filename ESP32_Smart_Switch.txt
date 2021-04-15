@@ -23,3 +23,5 @@ ESP32 Web Server using SPIFFS (SPI Flash File System https://randomnerdtutorials
 Control ESP32 and ESP8266 GPIOs from Anywhere in the World https://randomnerdtutorials.com/control-esp32-esp8266-gpios-from-anywhere/
 Create spiffs in esp32 https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/
 Elegant OTA Update https://randomnerdtutorials.com/esp32-ota-over-the-air-arduino/
+
+use android:usesCleartextTraffic="true" in android 11 application gradle file for webview access
